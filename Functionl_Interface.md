@@ -70,7 +70,7 @@ return br.readLine();//This is the line that does useful work.
 
 }
 ```
-
+![functiona_interface_1.png](https://github.com/adityasrivastva/java14/blob/master/images/functiona_interface_1.png)
 
 
 
