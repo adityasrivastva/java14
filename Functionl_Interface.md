@@ -70,9 +70,8 @@ return br.readLine();//This is the line that does useful work.
 
 }
 ```
-![Alt functional-interface-1.png](https://github.com/adityasrivastva/java14/blob/master/images/functional-interface-1.png)
 
-
+![functional-interface-1.png](https://github.com/adityasrivastva/java14/blob/master/images/functional-interface-1.png)
 
 ```java
 /*
